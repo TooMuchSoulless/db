@@ -62,7 +62,7 @@
          "name": "Radiant Solitaire Gem Pendant",
          "price": 271,
          "description": "Elevate your elegance with our Radiant Solitaire Gem Pendant, a stunning centerpiece showcasing a single, sparkling gemstone, exuding timeless beauty and sophistication.",
-         "stars": 5,
+         "stars": 4,
          "category": 5
       },
       {
@@ -75,7 +75,7 @@
          "name": "Sparkle Gemstone Ring",
          "price": 311,
          "description": "Adorn your finger with enchanting elegance in our Sparkle Gemstone Ring, where the brilliance of the gemstone steals the spotlight, making every gesture a captivating moment.",
-         "stars": 5,
+         "stars": 4,
          "category": 6
       },
       {
@@ -88,7 +88,7 @@
          "name": "Eternal Love Bridal Set",
          "price": 1206,
          "description": "Evoke timeless romance on your special day with our Eternal Love Bridal Set, a stunning ensemble of meticulously crafted jewelry designed to symbolize the eternal bond of love and commitment.",
-         "stars": 5,
+         "stars": 4,
          "category": 7
       },
       {
@@ -127,7 +127,7 @@
          "name": "Graceful Luminance Lariat",
          "price": 349,
          "description": "Embrace effortless sophistication with our Graceful Luminance Lariat, a mesmerizing piece that delicately drapes to enhance any neckline with timeless allure.",
-         "stars": 4,
+         "stars": 5,
          "category": 10
       },
       {
@@ -140,7 +140,7 @@
          "name": "Opulent Collar Necklace",
          "price": 418,
          "description": "Elevate your look with regal elegance in our Opulent Collar Necklace, a stunning accessory that exudes sophistication and adds a touch of luxury to any outfit.",
-         "stars": 5,
+         "stars": 4,
          "category": 11
       },
       {
@@ -155,6 +155,45 @@
          "description": "Indulge in timeless sophistication with our Regal Choker Necklace, a luxurious piece that graces the neckline with opulent elegance, perfect for adding a touch of glamour to any ensemble.",
          "stars": 5,
          "category": 11
+      },
+      {
+         "id": 13,
+         "badge": {
+            "title": "",
+            "bg": ""
+         },
+         "image": "https://toomuchsoulless.github.io/images/product-13.jpg",
+         "name": "Classic Sparkle Studs",
+         "price": 184,
+         "description": "Elevate your everyday style with our Classic Sparkle Studs, the perfect combination of simplicity and sophistication, designed to add a touch of sparkle to any ensemble.",
+         "stars": 4,
+         "category": 12
+      },
+      {
+         "id": 14,
+         "badge": {
+            "title": "",
+            "bg": ""
+         },
+         "image": "https://toomuchsoulless.github.io/images/product-14.jpg",
+         "name": "GleamLoop Hoops",
+         "price": 259,
+         "description": "Step into the spotlight with our GleamLoop Hoops, crafted to catch the light and elevate your style with effortless sophistication and shine.",
+         "stars": 5,
+         "category": 13
+      },
+      {
+         "id": 15,
+         "badge": {
+            "title": "",
+            "bg": ""
+         },
+         "image": "https://toomuchsoulless.github.io/images/product-15.jpg",
+         "name": "Shimmering Accent Ring",
+         "price": 336,
+         "description": "Enhance your elegance with our Shimmering Accent Rings, featuring exquisite side stones that add sparkle and allure to every gesture.",
+         "stars": 4,
+         "category": 14
       }
    ],
    
@@ -230,8 +269,20 @@
       {
          "id": 12,
          "image": "https://toomuchsoulless.github.io/images/product-12.jpg",
-         "section": "Electronics",
-         "name": "DSLR lense"
+         "section": "Earrigs",
+         "name": "Stud Earrings"
+      },
+      {
+         "id": 13,
+         "image": "https://toomuchsoulless.github.io/images/product-13.jpg",
+         "section": "Earrigs",
+         "name": "Hoop Earrings"
+      },
+      {
+         "id": 14,
+         "image": "https://toomuchsoulless.github.io/images/product-14.jpg",
+         "section": "Rigs",
+         "name": "Side Stone Rigs"
       }
    ]
 }
