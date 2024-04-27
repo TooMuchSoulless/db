@@ -181,19 +181,6 @@
          "description": "Step into the spotlight with our GleamLoop Hoops, crafted to catch the light and elevate your style with effortless sophistication and shine.",
          "stars": 5,
          "category": 13
-      },
-      {
-         "id": 15,
-         "badge": {
-            "title": "",
-            "bg": ""
-         },
-         "image": "https://toomuchsoulless.github.io/images/product-15.jpg",
-         "name": "Shimmering Accent Ring",
-         "price": 336,
-         "description": "Enhance your elegance with our Shimmering Accent Rings, featuring exquisite side stones that add sparkle and allure to every gesture.",
-         "stars": 4,
-         "category": 14
       }
    ],
    
@@ -277,12 +264,6 @@
          "image": "https://toomuchsoulless.github.io/images/product-13.jpg",
          "section": "Earrigs",
          "name": "Hoop Earrings"
-      },
-      {
-         "id": 14,
-         "image": "https://toomuchsoulless.github.io/images/product-14.jpg",
-         "section": "Rigs",
-         "name": "Side Stone Rigs"
       }
    ]
 }
