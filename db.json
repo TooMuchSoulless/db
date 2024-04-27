@@ -29,13 +29,13 @@
       {
          "id": 3,
          "badge": {
-            "title": "New",
+            "title": "Sale",
             "bg": "primary"
          },
          "image": "https://toomuchsoulless.github.io/images/product-3.jpg",
-         "name": "Gemstone Cascade Earrings",
+         "name": "Golden Blossom Cuff",
          "price": 280,
-         "description": "Dazzle and sway with every step in our Gemstone Cascade Earrings, where exquisite gemstones elegantly descend like shimmering waterfalls, adding a touch of glamour to any ensemble.",
+         "description": "Elevate your style with our Golden Blossom Cuff Earring, a stunning accessory that adds a touch of nature-inspired elegance to any look.",
          "stars": 4,
          "category": 3
       },
@@ -181,6 +181,19 @@
          "description": "Step into the spotlight with our GleamLoop Hoops, crafted to catch the light and elevate your style with effortless sophistication and shine.",
          "stars": 5,
          "category": 13
+      },
+      {
+         "id": 15,
+         "badge": {
+            "title": "",
+            "bg": ""
+         },
+         "image": "https://toomuchsoulless.github.io/images/product-15.jpg",
+         "name": "Shimmering Accent Ring",
+         "price": 336,
+         "description": "Enhance your elegance with our Shimmering Accent Rings, featuring exquisite side stones that add sparkle and allure to every gesture.",
+         "stars": 4,
+         "category": 14
       }
    ],
    
@@ -202,7 +215,7 @@
          "id": 3,
          "image": "https://toomuchsoulless.github.io/images/product-3.jpg",
          "section": "Earrigs",
-         "name": "Chandelier Earrings"
+         "name": "Cuffs"
          
       },
       {
@@ -264,6 +277,12 @@
          "image": "https://toomuchsoulless.github.io/images/product-13.jpg",
          "section": "Earrigs",
          "name": "Hoop Earrings"
+      },
+      {
+         "id": 14,
+         "image": "https://toomuchsoulless.github.io/images/product-14.jpg",
+         "section": "Rigs",
+         "name": "Side Stone Rigs"
       }
    ]
 }
